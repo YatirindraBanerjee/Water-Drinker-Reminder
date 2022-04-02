@@ -2,7 +2,7 @@
 
 ### Reminds to drink water in time
 
-## Installation install_requires
+## Installation install requires
 
 * python3
 * pip
