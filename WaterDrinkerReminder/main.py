@@ -10,7 +10,6 @@ def notify():
         notification.notify(
             title="Dehydrate yourself, Please Drink Water",
             message="Water is the best dehydrator in the world",
-            app_icon="assets/water.ico",
             timeout=15
         )
         sleep(60*time)
